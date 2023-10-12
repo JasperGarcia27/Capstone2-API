@@ -1,0 +1,18 @@
+Accounts
+ADMIN
+email: jasper@mail.com
+password: jasper1234
+
+email: jian@mail.com
+password: jian1234
+
+
+NON ADMIN
+email: jane@mail.com
+password: jane1234
+
+email: kc@mail.com
+password: kc1234
+
+email: camille@mail.com
+password: camille1234
